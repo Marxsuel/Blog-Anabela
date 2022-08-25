@@ -1,0 +1,56 @@
+
+
+
+
+body {
+	background: gray url('imagens/fundo.png');
+	font: 16px Arial, helvetica, sans-serif;
+}
+
+#principal {
+	width: 900px;
+	padding-left: 25%;
+
+
+}
+
+#menu  {
+color: gray;
+padding: 18px;
+
+}
+
+a { 
+text-decoration: none;
+font-weight: bold;
+color: rgb(77, 76, 76);
+padding: 5px;
+padding-top: 5px;
+}
+
+h1{
+	font-size: 25px;
+	color: rgb(51, 49, 49);
+}
+
+/* formatação para o rodapé  */
+.centralizar	{
+ display: flex	;
+ justify-content: space-between;
+}
+
+#conteudo { 
+	background-color: azure;
+	padding: 10PX;
+	padding-top: 5px;
+
+
+}
+
+.imgg{
+	padding-left: 27%
+}
+
+p { text-align: justify;
+
+}
